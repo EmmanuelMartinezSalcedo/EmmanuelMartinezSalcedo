@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Emmanuel Martínez
 
 ## 💻 Computer Science Student
-Welcome to my GitHub page! My name is Emmanuel Martínez, and I am currently a Computer Science student. I have been programming many things for five years and am always seeking to learn new technologies.
+Welcome to my GitHub page! My name is Emmanuel Martínez, and I am a Computer Science bachelor. I have been programming many things for five years and am always seeking to learn new technologies.
 
 ## 🤖 Technologies:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
