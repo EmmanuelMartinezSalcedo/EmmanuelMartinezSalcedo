@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Emmanuel Martínez
 
-## 💻 Computer Science Student
+## 💻 Computer Science Bachelor
 Welcome to my GitHub page! My name is Emmanuel Martínez, and I am a Computer Science bachelor. I have been programming many things for five years and am always seeking to learn new technologies.
 
 ## 🤖 Technologies:
